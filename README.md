@@ -15,3 +15,14 @@ If you use it in any project please add my name and a link to this repository (:
 I will add (later) a virtual machine with all the tools installed and a file to show how it need to be configurate
 
 If you have any trouble, please let me know
+
+
+
+
+_____________________
+
+
+default ip: `192.168.2.99`
+default jupyter port: `9090`
+
+Don't forget to change IP of computer to be `192.168.2.x`, (0-255, 99 is reserved for the zedboard)
